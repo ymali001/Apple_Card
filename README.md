@@ -1,13 +1,10 @@
 # Apple Pay 
-Note If you have chosen a project within a larger company (such as the Apple Credit Card), you may want to focus your research on the origins and scope of the project rather than on the company itself.
 
 ## Overview and Origin
 
-* Name of company
+* Apple Inc. is a company that needs no introduction. It has always been known for doing things differently and going into Apple Pay did disrupt the Credit Card Industry in a big way.
 
-* When was the company incorporated?
-
-* Who are the founders of the company?
+* Apple was founded by Steve Jobs, Steve Wozniak, and Ronald Wayne in April 1976 and was originally incorporated at Cupertino CA in January 1977.
 
 * How did the idea for the company (or project) come about?
 
@@ -40,7 +37,7 @@ What solution does this company offer that their competitors do not or cannot of
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
 
 * How is your company performing relative to competitors in the same domain?
-
+Apple pay biggest competitior is Samasung but in no way or form we are saying there is no other competition. The competitor list is long and non ending starting from all the big bank like Citi, JPMC, BOA and Wells, it goes side by side with Paypal, Amazon, Zelle etc.
 
 ## Recommendations
 
@@ -51,3 +48,5 @@ What solution does this company offer that their competitors do not or cannot of
 * What technologies would this additional product or service utilize?
 
 * Why are these technologies appropriate for your solution?
+
+### Sources
