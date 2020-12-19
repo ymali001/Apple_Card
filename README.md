@@ -17,15 +17,15 @@
 
 * Apple Pay's disadvantages is limited to using the actual Apple product which is pricy. Refusal from merchants to include Apple Pay to accept the payment method. iCloud's reputation as of late which has been famiously known for celebrity private photos/videos. Locating which merchants use Apple Pay.
 
-* About two-thirds of merchants accept Apple Pay, but many terminals don't. Due to provisioning differences between countries (and even between issuers), users may encounter acceptance issues when travelling to a different country. Some known issues include:
-
-** Canada, UK, Saudi Arabia, and possibly other non-US-issued VISA cards only support EMV-mode transactions and not legacy magnetic stripe data emulation transactions. Some contactless terminals in the US do not support EMV-mode contactless transactions (even if they support EMV contact transactions), and therefore these visitors to the US will receive a 'Could Not Complete Payment' error on the iPhone screen and an error on the terminal when attempting to use Apple Pay.
-
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
 
 * Apple Pay uses the EMV Payment Tokenisation Specification. The service keeps customer payment information private from the retailer by replacing the customer's credit or debit card Funding Primary Account Number (FPAN) with a tokenized Device Primary Account Number (DPAN), and creates a "dynamic security code generated for each transaction". The 'dynamic security code' is the cryptogram in an EMV-mode transaction, and the Dynamic Card Verification Value (dCVV) in a magnetic stripe data emulation-mode transaction. 
 
 * To pay at points of sale, users hold their authenticated Apple device to the point of sale system's NFC card reader. iPhone users authenticate by using Touch ID, Face ID, or passcode, whereas Apple Watch users authenticate by double-clicking a button on the device. To pay in supported iOS apps, users choose Apple Pay as their payment method and authenticate with Touch ID or Face ID.[6] Users can add payment cards to the service in any of four ways: through the payment card listed on their iTunes accounts, by taking a photo of the card, being provisioned from within the card issuer's app, or by entering the card information manually.
+
+* About two-thirds of merchants accept Apple Pay, but many terminals don't. Due to provisioning differences between countries (and even between issuers), users may encounter acceptance issues when travelling to a different country. Some known issues include:
+
+* Canada, UK, Saudi Arabia, and possibly other non-US-issued VISA cards only support EMV-mode transactions and not legacy magnetic stripe data emulation transactions. Some contactless terminals in the US do not support EMV-mode contactless transactions (even if they support EMV contact transactions), and therefore these visitors to the US will receive a 'Could Not Complete Payment' error on the iPhone screen and an error on the terminal when attempting to use Apple Pay.
 
 ## Landscape:
 
@@ -54,6 +54,7 @@ Apple pay biggest competitior is Samasung but in no way or form we are saying th
 * What technologies would this additional product or service utilize?
 
 * Why are these technologies appropriate for your solution?
+* While Apple Pay benefits from Apple's unique, and quite frankly somewhat monopolistic position in the mobile phone market, Apple Pay has somewhat struggled in uptake due to other services that have a greater foothold in electronic payments. Apple Pay would have to utilize greater leverage of its favorable and monopolistic positioning in order to increase uptake of the product. In short, the best path for them might be to utilize more anti-competitive behaviors in direct retail payment settings in order to increase usage in other areas, such as direct payments between individuals. This may be the only path for Apple Pay to gain market share. This would follow a somewhat 'I-tunes - forced usage/captive audience model.
 
 ### Sources
 https://en.wikipedia.org/wiki/Apple_Pay
