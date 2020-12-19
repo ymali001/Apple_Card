@@ -50,3 +50,5 @@ Apple pay biggest competitior is Samasung but in no way or form we are saying th
 * Why are these technologies appropriate for your solution?
 
 ### Sources
+https://en.wikipedia.org/wiki/Apple_Pay
+https://en.wikipedia.org/wiki/Apple_Inc.
