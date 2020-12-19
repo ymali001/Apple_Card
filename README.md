@@ -1,4 +1,4 @@
-[apple](apple%20pay.png)
+![apple](apple%20pay.png)
 # Apple Pay 
 
 ## Overview and Origin
