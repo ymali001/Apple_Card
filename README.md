@@ -57,5 +57,7 @@ Apple pay biggest competitior is Samasung but in no way or form we are saying th
 * While Apple Pay benefits from Apple's unique, and quite frankly somewhat monopolistic position in the mobile phone market, Apple Pay has somewhat struggled in uptake due to other services that have a greater foothold in electronic payments. Apple Pay would have to utilize greater leverage of its favorable and monopolistic positioning in order to increase uptake of the product. In short, the best path for them might be to utilize more anti-competitive behaviors in direct retail payment settings in order to increase usage in other areas, such as direct payments between individuals. This may be the only path for Apple Pay to gain market share. This would follow a somewhat 'I-tunes - forced usage/captive audience model.
 
 ### Sources
-https://en.wikipedia.org/wiki/Apple_Pay
-https://en.wikipedia.org/wiki/Apple_Inc.
+* https://en.wikipedia.org/wiki/Apple_Pay
+* https://en.wikipedia.org/wiki/Apple_Inc.
+* https://simplymac.com/pay-it-forward-the-advantages-of-apple-pay/#:~:text=The%20good%20news%20is%20that,or%20your%20Apple%20Watch%20passcode.
+
