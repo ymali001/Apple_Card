@@ -29,34 +29,23 @@
 
 ## Landscape:
 
-* What domain of the financial industry is the company in?
+* Apple simply attempts to download a file from your-domain-name.com/.well-known/apple-developer-merchantid-domain-association.
 
-* What have been the major trends and innovations of this domain over the last 5-10 years?
+* To enable merchant validation and receive a session object, your server must allow access over HTTPS (TCP over port 443) to the Apple Pay IP addresses and domains provided in [Listing 1](https://developer.apple.com/documentation/apple_pay_on_the_web/setting_up_your_server#3172427).
 
-* What are the other major companies in this domain?
-
+* Apple pay biggest competitior is Samasung but in no way or form we are saying there is no other competition. The competitor list is long and non ending starting from all the big bank like Citi, JPMC, BOA and Wells, it goes side by side with Paypal, Amazon, Zelle etc.
 
 ## Results
 
-* What has been the business impact of this company so far?
-
-* What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
-
-* How is your company performing relative to competitors in the same domain?
-Apple pay biggest competitior is Samasung but in no way or form we are saying there is no other competition. The competitor list is long and non ending starting from all the big bank like Citi, JPMC, BOA and Wells, it goes side by side with Paypal, Amazon, Zelle etc.
+* [Consolidated Financial Statements](https://www.apple.com/newsroom/2020/10/apple-reports-fourth-quarter-results/)
 
 ## Recommendations
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
-
-* Why do you think that offering this product or service would benefit the company?
-
-* What technologies would this additional product or service utilize?
-
-* Why are these technologies appropriate for your solution?
 * While Apple Pay benefits from Apple's unique, and quite frankly somewhat monopolistic position in the mobile phone market, Apple Pay has somewhat struggled in uptake due to other services that have a greater foothold in electronic payments. Apple Pay would have to utilize greater leverage of its favorable and monopolistic positioning in order to increase uptake of the product. In short, the best path for them might be to utilize more anti-competitive behaviors in direct retail payment settings in order to increase usage in other areas, such as direct payments between individuals. This may be the only path for Apple Pay to gain market share. This would follow a somewhat 'I-tunes - forced usage/captive audience model.
 
 #### Sources
 * [Reference 1](https://en.wikipedia.org/wiki/Apple_Pay)
 * [Reference 2](https://en.wikipedia.org/wiki/Apple_Inc)
 * [Reference 3](https://simplymac.com/pay-it-forward-the-advantages-of-apple-pay/#:~:text=The%20good%20news%20is%20that,or%20your%20Apple%20Watch%20passcode)
+* [Reference 4](https://developer.apple.com/forums/thread/94631)
+
