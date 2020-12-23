@@ -17,8 +17,6 @@
 
 * Apple Pay's disadvantages is limited to using the actual Apple product which is pricy. Refusal from merchants to include Apple Pay to accept the payment method. iCloud's reputation as of late which has been famiously known for celebrity private photos/videos. Locating which merchants use Apple Pay.
 
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
-
 * Apple Pay uses the EMV Payment Tokenisation Specification. The service keeps customer payment information private from the retailer by replacing the customer's credit or debit card Funding Primary Account Number (FPAN) with a tokenized Device Primary Account Number (DPAN), and creates a "dynamic security code generated for each transaction". The 'dynamic security code' is the cryptogram in an EMV-mode transaction, and the Dynamic Card Verification Value (dCVV) in a magnetic stripe data emulation-mode transaction. 
 
 * To pay at points of sale, users hold their authenticated Apple device to the point of sale system's NFC card reader. iPhone users authenticate by using Touch ID, Face ID, or passcode, whereas Apple Watch users authenticate by double-clicking a button on the device. To pay in supported iOS apps, users choose Apple Pay as their payment method and authenticate with Touch ID or Face ID.[6] Users can add payment cards to the service in any of four ways: through the payment card listed on their iTunes accounts, by taking a photo of the card, being provisioned from within the card issuer's app, or by entering the card information manually.
